@@ -53,9 +53,24 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| Default | Post delete scaling policy, Post delete scheduled action, Post deregister scalable target, Post describe scalable targets, Post describe scaling activities, Post describe scaling policies, Post describe scheduled actions, Post list tags for resource, Post put scaling policy, Post put scheduled action, Post register scalable target, Post tag resource, Post untag resource |
+<details>
+<summary><b>Default</b> (13 operations)</summary>
+
+- Post Delete Scaling Policy
+- Post Delete Scheduled Action
+- Post Deregister Scalable Target
+- Post Describe Scalable Targets
+- Post Describe Scaling Activities
+- Post Describe Scaling Policies
+- Post Describe Scheduled Actions
+- Post List Tags For Resource
+- Post Put Scaling Policy
+- Post Put Scheduled Action
+- Post Register Scalable Target
+- Post Tag Resource
+- Post Untag Resource
+
+</details>
 
 ---
 

@@ -334,7 +334,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -652,7 +652,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -944,7 +944,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -1675,7 +1675,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -2115,7 +2115,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -2530,7 +2530,7 @@ export const defaultDescription: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -2997,7 +2997,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -3450,7 +3450,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",
@@ -3817,7 +3817,7 @@ export const defaultDescription: INodeProperties[] = [
 		},
 		{
 			"required": true,
-			"displayName": "Resource Id",
+			"displayName": "Resource ID",
 			"name": "ResourceId",
 			"type": "string",
 			"default": "",

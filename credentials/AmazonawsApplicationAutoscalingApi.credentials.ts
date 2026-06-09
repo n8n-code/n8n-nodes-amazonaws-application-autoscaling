@@ -8,7 +8,7 @@ import type {
 export class AmazonawsApplicationAutoscalingApi implements ICredentialType {
 	name = 'N8nDevAmazonawsApplicationAutoscalingApi';
 
-	displayName = 'amazonaws-application-autoscaling API';
+	displayName = 'Amazonaws Application Autoscaling API';
 
 	icon: Icon = { light: 'file:../nodes/AmazonawsApplicationAutoscaling/amazonaws-application-autoscaling.png', dark: 'file:../nodes/AmazonawsApplicationAutoscaling/amazonaws-application-autoscaling.dark.png' };
 
@@ -22,7 +22,7 @@ export class AmazonawsApplicationAutoscalingApi implements ICredentialType {
 			default: '',
 			required: true,
 			placeholder: 'http://application-autoscaling.us-east-1.amazonaws.com',
-			description: 'The base URL of your amazonaws-application-autoscaling API server',
+			description: 'The base URL of your Amazonaws Application Autoscaling API server',
 		},
 		{
 			displayName: 'API Key',

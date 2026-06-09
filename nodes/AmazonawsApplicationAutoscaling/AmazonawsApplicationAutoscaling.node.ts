@@ -3,14 +3,14 @@ import { defaultDescription } from './resources/default';
 
 export class AmazonawsApplicationAutoscaling implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'amazonaws-application-autoscaling',
+		displayName: 'Amazonaws Application Autoscaling',
 		name: 'N8nDevAmazonawsApplicationAutoscaling',
 		icon: { light: 'file:./amazonaws-application-autoscaling.png', dark: 'file:./amazonaws-application-autoscaling.dark.png' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
-		description: 'With Application Auto Scaling, you can configure automatic scaling for the following resources: Amazon AppStream 2.0 fleets Amazon Aurora Replicas <l..',
-		defaults: { name: 'amazonaws-application-autoscaling' },
+		description: 'Configure auto scaling for AppStream 2.0 fleets, Aurora Replicas, and more.',
+		defaults: { name: 'Amazonaws Application Autoscaling' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],

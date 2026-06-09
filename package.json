@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-amazonaws-application-autoscaling",
-  "version": "1.0.0",
-  "description": "With Application Auto Scaling, you can configure automatic scaling for the following resources: Amazon AppStream 2.0 fleets Amazon Aurora Replicas <l..",
+  "version": "1.0.1",
+  "description": "Configure auto scaling for AppStream 2.0 fleets, Aurora Replicas, and more.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-amazonaws-application-autoscaling",
   "keywords": [
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "amazonaws-application-autoscaling"
